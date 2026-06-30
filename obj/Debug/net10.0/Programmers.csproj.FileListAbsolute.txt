@@ -1,0 +1,14 @@
+c:\Users\freed\Desktop\Development\Programmers\Programmers\bin\Debug\net10.0\Programmers.exe
+c:\Users\freed\Desktop\Development\Programmers\Programmers\bin\Debug\net10.0\Programmers.deps.json
+c:\Users\freed\Desktop\Development\Programmers\Programmers\bin\Debug\net10.0\Programmers.runtimeconfig.json
+c:\Users\freed\Desktop\Development\Programmers\Programmers\bin\Debug\net10.0\Programmers.dll
+c:\Users\freed\Desktop\Development\Programmers\Programmers\bin\Debug\net10.0\Programmers.pdb
+c:\Users\freed\Desktop\Development\Programmers\Programmers\obj\Debug\net10.0\Programmers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\freed\Desktop\Development\Programmers\Programmers\obj\Debug\net10.0\Programmers.AssemblyInfoInputs.cache
+c:\Users\freed\Desktop\Development\Programmers\Programmers\obj\Debug\net10.0\Programmers.AssemblyInfo.cs
+c:\Users\freed\Desktop\Development\Programmers\Programmers\obj\Debug\net10.0\Programmers.csproj.CoreCompileInputs.cache
+c:\Users\freed\Desktop\Development\Programmers\Programmers\obj\Debug\net10.0\Programmers.dll
+c:\Users\freed\Desktop\Development\Programmers\Programmers\obj\Debug\net10.0\refint\Programmers.dll
+c:\Users\freed\Desktop\Development\Programmers\Programmers\obj\Debug\net10.0\Programmers.pdb
+c:\Users\freed\Desktop\Development\Programmers\Programmers\obj\Debug\net10.0\Programmers.genruntimeconfig.cache
+c:\Users\freed\Desktop\Development\Programmers\Programmers\obj\Debug\net10.0\ref\Programmers.dll
