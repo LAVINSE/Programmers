@@ -12,3 +12,11 @@ c:\Users\freed\Desktop\Development\Programmers\Programmers\obj\Debug\net10.0\ref
 c:\Users\freed\Desktop\Development\Programmers\Programmers\obj\Debug\net10.0\Programmers.pdb
 c:\Users\freed\Desktop\Development\Programmers\Programmers\obj\Debug\net10.0\Programmers.genruntimeconfig.cache
 c:\Users\freed\Desktop\Development\Programmers\Programmers\obj\Debug\net10.0\ref\Programmers.dll
+C:\Users\freed\Desktop\Development\Programmers\obj\Debug\net10.0\Programmers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freed\Desktop\Development\Programmers\obj\Debug\net10.0\Programmers.AssemblyInfoInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\obj\Debug\net10.0\Programmers.AssemblyInfo.cs
+C:\Users\freed\Desktop\Development\Programmers\obj\Debug\net10.0\Programmers.csproj.CoreCompileInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\obj\Debug\net10.0\Programmers.sourcelink.json
+C:\Users\freed\Desktop\Development\Programmers\obj\Debug\net10.0\Programmers.dll
+C:\Users\freed\Desktop\Development\Programmers\obj\Debug\net10.0\refint\Programmers.dll
+C:\Users\freed\Desktop\Development\Programmers\obj\Debug\net10.0\Programmers.pdb
