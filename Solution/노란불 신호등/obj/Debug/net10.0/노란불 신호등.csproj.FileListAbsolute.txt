@@ -1,0 +1,15 @@
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\bin\Debug\net10.0\노란불 신호등.exe
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\bin\Debug\net10.0\노란불 신호등.deps.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\bin\Debug\net10.0\노란불 신호등.runtimeconfig.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\bin\Debug\net10.0\노란불 신호등.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\bin\Debug\net10.0\노란불 신호등.pdb
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\obj\Debug\net10.0\노란불 신호등.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\obj\Debug\net10.0\노란불 신호등.AssemblyInfoInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\obj\Debug\net10.0\노란불 신호등.AssemblyInfo.cs
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\obj\Debug\net10.0\노란불 신호등.csproj.CoreCompileInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\obj\Debug\net10.0\노란불 신호등.sourcelink.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\obj\Debug\net10.0\노란불 신호등.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\obj\Debug\net10.0\refint\노란불 신호등.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\obj\Debug\net10.0\노란불 신호등.pdb
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\obj\Debug\net10.0\노란불 신호등.genruntimeconfig.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\노란불 신호등\obj\Debug\net10.0\ref\노란불 신호등.dll

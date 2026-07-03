@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "노란불 신호등/1.0.0": {
+        "runtime": {
+          "노란불 신호등.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "노란불 신호등/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

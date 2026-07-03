@@ -1,0 +1,15 @@
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\bin\Debug\net10.0\동영상 재생기.exe
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\bin\Debug\net10.0\동영상 재생기.deps.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\bin\Debug\net10.0\동영상 재생기.runtimeconfig.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\bin\Debug\net10.0\동영상 재생기.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\bin\Debug\net10.0\동영상 재생기.pdb
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\obj\Debug\net10.0\동영상 재생기.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\obj\Debug\net10.0\동영상 재생기.AssemblyInfoInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\obj\Debug\net10.0\동영상 재생기.AssemblyInfo.cs
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\obj\Debug\net10.0\동영상 재생기.csproj.CoreCompileInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\obj\Debug\net10.0\동영상 재생기.sourcelink.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\obj\Debug\net10.0\동영상 재생기.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\obj\Debug\net10.0\refint\동영상 재생기.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\obj\Debug\net10.0\동영상 재생기.pdb
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\obj\Debug\net10.0\동영상 재생기.genruntimeconfig.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\동영상 재생기\obj\Debug\net10.0\ref\동영상 재생기.dll

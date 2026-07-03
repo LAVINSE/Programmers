@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution/">
+    <Project Path="Solution/노란불 신호등/노란불 신호등.csproj" />
+    <Project Path="Solution/동영상 재생기/동영상 재생기.csproj" />
+    <Project Path="Solution/선인장 숨기기/선인장 숨기기.csproj" />
+    <Project Path="Solution/유연근무제/유연근무제.csproj" />
+  </Folder>
+</Solution>

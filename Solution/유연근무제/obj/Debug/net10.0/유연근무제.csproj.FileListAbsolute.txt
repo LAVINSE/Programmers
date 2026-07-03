@@ -1,0 +1,15 @@
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\bin\Debug\net10.0\유연근무제.exe
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\bin\Debug\net10.0\유연근무제.deps.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\bin\Debug\net10.0\유연근무제.runtimeconfig.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\bin\Debug\net10.0\유연근무제.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\bin\Debug\net10.0\유연근무제.pdb
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\obj\Debug\net10.0\유연근무제.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\obj\Debug\net10.0\유연근무제.AssemblyInfoInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\obj\Debug\net10.0\유연근무제.AssemblyInfo.cs
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\obj\Debug\net10.0\유연근무제.csproj.CoreCompileInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\obj\Debug\net10.0\유연근무제.sourcelink.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\obj\Debug\net10.0\유연근무제.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\obj\Debug\net10.0\refint\유연근무제.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\obj\Debug\net10.0\유연근무제.pdb
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\obj\Debug\net10.0\유연근무제.genruntimeconfig.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\유연근무제\obj\Debug\net10.0\ref\유연근무제.dll

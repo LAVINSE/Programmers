@@ -1,0 +1,15 @@
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\bin\Debug\net10.0\선인장 숨기기.exe
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\bin\Debug\net10.0\선인장 숨기기.deps.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\bin\Debug\net10.0\선인장 숨기기.runtimeconfig.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\bin\Debug\net10.0\선인장 숨기기.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\bin\Debug\net10.0\선인장 숨기기.pdb
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\obj\Debug\net10.0\선인장 숨기기.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\obj\Debug\net10.0\선인장 숨기기.AssemblyInfoInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\obj\Debug\net10.0\선인장 숨기기.AssemblyInfo.cs
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\obj\Debug\net10.0\선인장 숨기기.csproj.CoreCompileInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\obj\Debug\net10.0\선인장 숨기기.sourcelink.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\obj\Debug\net10.0\선인장 숨기기.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\obj\Debug\net10.0\refint\선인장 숨기기.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\obj\Debug\net10.0\선인장 숨기기.pdb
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\obj\Debug\net10.0\선인장 숨기기.genruntimeconfig.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\선인장 숨기기\obj\Debug\net10.0\ref\선인장 숨기기.dll
