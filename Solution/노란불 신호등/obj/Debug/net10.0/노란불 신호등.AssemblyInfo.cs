@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("노란불 신호등")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57f8f0a8c93bc2b1793a941d27025b0c80a30d03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec1e88818abe04c7c5ba6a5238ac706046eaf39c")]
 [assembly: System.Reflection.AssemblyProductAttribute("노란불 신호등")]
 [assembly: System.Reflection.AssemblyTitleAttribute("노란불 신호등")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

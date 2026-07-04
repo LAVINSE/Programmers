@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "가장 많이 받은 선물/1.0.0": {
+        "runtime": {
+          "가장 많이 받은 선물.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "가장 많이 받은 선물/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
