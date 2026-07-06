@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "택배 상자 꺼내기/1.0.0": {
+        "runtime": {
+          "택배 상자 꺼내기.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "택배 상자 꺼내기/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

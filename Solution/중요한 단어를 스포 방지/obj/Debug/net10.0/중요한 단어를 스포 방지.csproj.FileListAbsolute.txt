@@ -1,0 +1,15 @@
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\bin\Debug\net10.0\중요한 단어를 스포 방지.exe
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\bin\Debug\net10.0\중요한 단어를 스포 방지.deps.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\bin\Debug\net10.0\중요한 단어를 스포 방지.runtimeconfig.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\bin\Debug\net10.0\중요한 단어를 스포 방지.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\bin\Debug\net10.0\중요한 단어를 스포 방지.pdb
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\obj\Debug\net10.0\중요한 단어를 스포 방지.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\obj\Debug\net10.0\중요한 단어를 스포 방지.AssemblyInfoInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\obj\Debug\net10.0\중요한 단어를 스포 방지.AssemblyInfo.cs
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\obj\Debug\net10.0\중요한 단어를 스포 방지.csproj.CoreCompileInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\obj\Debug\net10.0\중요한 단어를 스포 방지.sourcelink.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\obj\Debug\net10.0\중요한 단어를 스포 방지.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\obj\Debug\net10.0\refint\중요한 단어를 스포 방지.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\obj\Debug\net10.0\중요한 단어를 스포 방지.pdb
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\obj\Debug\net10.0\중요한 단어를 스포 방지.genruntimeconfig.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\중요한 단어를 스포 방지\obj\Debug\net10.0\ref\중요한 단어를 스포 방지.dll

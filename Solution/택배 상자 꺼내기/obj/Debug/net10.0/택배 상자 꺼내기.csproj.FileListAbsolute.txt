@@ -1,0 +1,15 @@
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\bin\Debug\net10.0\택배 상자 꺼내기.exe
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\bin\Debug\net10.0\택배 상자 꺼내기.deps.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\bin\Debug\net10.0\택배 상자 꺼내기.runtimeconfig.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\bin\Debug\net10.0\택배 상자 꺼내기.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\bin\Debug\net10.0\택배 상자 꺼내기.pdb
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\obj\Debug\net10.0\택배 상자 꺼내기.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\obj\Debug\net10.0\택배 상자 꺼내기.AssemblyInfoInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\obj\Debug\net10.0\택배 상자 꺼내기.AssemblyInfo.cs
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\obj\Debug\net10.0\택배 상자 꺼내기.csproj.CoreCompileInputs.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\obj\Debug\net10.0\택배 상자 꺼내기.sourcelink.json
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\obj\Debug\net10.0\택배 상자 꺼내기.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\obj\Debug\net10.0\refint\택배 상자 꺼내기.dll
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\obj\Debug\net10.0\택배 상자 꺼내기.pdb
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\obj\Debug\net10.0\택배 상자 꺼내기.genruntimeconfig.cache
+C:\Users\freed\Desktop\Development\Programmers\Solution\택배 상자 꺼내기\obj\Debug\net10.0\ref\택배 상자 꺼내기.dll

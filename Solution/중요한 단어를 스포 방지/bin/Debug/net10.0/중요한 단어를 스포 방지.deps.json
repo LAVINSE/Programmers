@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "중요한 단어를 스포 방지/1.0.0": {
+        "runtime": {
+          "중요한 단어를 스포 방지.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "중요한 단어를 스포 방지/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

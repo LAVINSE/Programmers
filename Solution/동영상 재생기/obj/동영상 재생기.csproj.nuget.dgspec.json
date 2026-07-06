@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\동영상 재생기\\동영상 재생기.csproj": {}
+    "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\동영상 재생기\\동영상 재생기.csproj": {}
   },
   "projects": {
-    "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\동영상 재생기\\동영상 재생기.csproj": {
+    "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\동영상 재생기\\동영상 재생기.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\동영상 재생기\\동영상 재생기.csproj",
+        "projectUniqueName": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\동영상 재생기\\동영상 재생기.csproj",
         "projectName": "동영상 재생기",
-        "projectPath": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\동영상 재생기\\동영상 재생기.csproj",
+        "projectPath": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\동영상 재생기\\동영상 재생기.csproj",
         "packagesPath": "C:\\Users\\freed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\동영상 재생기\\obj\\",
+        "outputPath": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\동영상 재생기\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\freed\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("선인장 숨기기")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec1e88818abe04c7c5ba6a5238ac706046eaf39c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e84815e05c042e2308a29b563682acc234933c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("선인장 숨기기")]
 [assembly: System.Reflection.AssemblyTitleAttribute("선인장 숨기기")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
