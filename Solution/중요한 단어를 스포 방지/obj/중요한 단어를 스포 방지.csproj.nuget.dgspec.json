@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\중요한 단어를 스포 방지\\중요한 단어를 스포 방지.csproj": {}
+    "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\중요한 단어를 스포 방지\\중요한 단어를 스포 방지.csproj": {}
   },
   "projects": {
-    "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\중요한 단어를 스포 방지\\중요한 단어를 스포 방지.csproj": {
+    "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\중요한 단어를 스포 방지\\중요한 단어를 스포 방지.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\중요한 단어를 스포 방지\\중요한 단어를 스포 방지.csproj",
+        "projectUniqueName": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\중요한 단어를 스포 방지\\중요한 단어를 스포 방지.csproj",
         "projectName": "중요한 단어를 스포 방지",
-        "projectPath": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\중요한 단어를 스포 방지\\중요한 단어를 스포 방지.csproj",
+        "projectPath": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\중요한 단어를 스포 방지\\중요한 단어를 스포 방지.csproj",
         "packagesPath": "C:\\Users\\freed\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\중요한 단어를 스포 방지\\obj\\",
+        "outputPath": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\중요한 단어를 스포 방지\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\freed\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\bin\Debug\net10.0\달리기 경주.exe
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\bin\Debug\net10.0\달리기 경주.deps.json
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\bin\Debug\net10.0\달리기 경주.runtimeconfig.json
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\bin\Debug\net10.0\달리기 경주.dll
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\bin\Debug\net10.0\달리기 경주.pdb
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\obj\Debug\net10.0\달리기 경주.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\obj\Debug\net10.0\달리기 경주.AssemblyInfoInputs.cache
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\obj\Debug\net10.0\달리기 경주.AssemblyInfo.cs
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\obj\Debug\net10.0\달리기 경주.csproj.CoreCompileInputs.cache
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\obj\Debug\net10.0\달리기 경주.sourcelink.json
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\obj\Debug\net10.0\달리기 경주.dll
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\obj\Debug\net10.0\refint\달리기 경주.dll
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\obj\Debug\net10.0\달리기 경주.pdb
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\obj\Debug\net10.0\달리기 경주.genruntimeconfig.cache
+c:\Users\freed\Desktop\Development\Programmers\Solution\달리기 경주\obj\Debug\net10.0\ref\달리기 경주.dll
