@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("중요한 단어를 스포 방지")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1828ad8b6cda91ce1392bc97c0bea57be2609ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d01f1b0c4561e314d145c35b93f51fdaa2235140")]
 [assembly: System.Reflection.AssemblyProductAttribute("중요한 단어를 스포 방지")]
 [assembly: System.Reflection.AssemblyTitleAttribute("중요한 단어를 스포 방지")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
