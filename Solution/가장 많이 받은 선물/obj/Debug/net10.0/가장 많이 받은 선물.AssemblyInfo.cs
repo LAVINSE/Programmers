@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("가장 많이 받은 선물")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d01f1b0c4561e314d145c35b93f51fdaa2235140")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c0506b36c933e47a15d8c898196627240a571f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("가장 많이 받은 선물")]
 [assembly: System.Reflection.AssemblyTitleAttribute("가장 많이 받은 선물")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\달리기 경주\\달리기 경주.csproj": {}
+    "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\달리기 경주\\달리기 경주.csproj": {}
   },
   "projects": {
-    "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\달리기 경주\\달리기 경주.csproj": {
+    "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\달리기 경주\\달리기 경주.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\달리기 경주\\달리기 경주.csproj",
+        "projectUniqueName": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\달리기 경주\\달리기 경주.csproj",
         "projectName": "달리기 경주",
-        "projectPath": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\달리기 경주\\달리기 경주.csproj",
+        "projectPath": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\달리기 경주\\달리기 경주.csproj",
         "packagesPath": "C:\\Users\\freed\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\달리기 경주\\obj\\",
+        "outputPath": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\달리기 경주\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\freed\\AppData\\Roaming\\NuGet\\NuGet.Config"
