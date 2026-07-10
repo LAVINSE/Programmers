@@ -3,6 +3,7 @@
     <Project Path="Solution/노란불 신호등/노란불 신호등.csproj" />
     <Project Path="Solution/가장 많이 받은 선물/가장 많이 받은 선물.csproj" />
     <Project Path="Solution/달리기 경주/달리기 경주.csproj" />
+    <Project Path="Solution/덧칠 하기/덧칠 하기.csproj" />
     <Project Path="Solution/동영상 재생기/동영상 재생기.csproj" />
     <Project Path="Solution/선인장 숨기기/선인장 숨기기.csproj" />
     <Project Path="Solution/중요한 단어를 스포 방지/중요한 단어를 스포 방지.csproj" />

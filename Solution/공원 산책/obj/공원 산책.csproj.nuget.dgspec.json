@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\공원 산책\\공원 산책.csproj": {}
+    "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\공원 산책\\공원 산책.csproj": {}
   },
   "projects": {
-    "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\공원 산책\\공원 산책.csproj": {
+    "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\공원 산책\\공원 산책.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\공원 산책\\공원 산책.csproj",
+        "projectUniqueName": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\공원 산책\\공원 산책.csproj",
         "projectName": "공원 산책",
-        "projectPath": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\공원 산책\\공원 산책.csproj",
+        "projectPath": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\공원 산책\\공원 산책.csproj",
         "packagesPath": "C:\\Users\\freed\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\공원 산책\\obj\\",
+        "outputPath": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\공원 산책\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\freed\\AppData\\Roaming\\NuGet\\NuGet.Config"
