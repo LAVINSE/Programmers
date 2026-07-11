@@ -1,0 +1,15 @@
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\bin\Debug\net10.0\대충 만든 자판.exe
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\bin\Debug\net10.0\대충 만든 자판.deps.json
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\bin\Debug\net10.0\대충 만든 자판.runtimeconfig.json
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\bin\Debug\net10.0\대충 만든 자판.dll
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\bin\Debug\net10.0\대충 만든 자판.pdb
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\obj\Debug\net10.0\대충 만든 자판.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\obj\Debug\net10.0\대충 만든 자판.AssemblyInfoInputs.cache
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\obj\Debug\net10.0\대충 만든 자판.AssemblyInfo.cs
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\obj\Debug\net10.0\대충 만든 자판.csproj.CoreCompileInputs.cache
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\obj\Debug\net10.0\대충 만든 자판.sourcelink.json
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\obj\Debug\net10.0\대충 만든 자판.dll
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\obj\Debug\net10.0\refint\대충 만든 자판.dll
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\obj\Debug\net10.0\대충 만든 자판.pdb
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\obj\Debug\net10.0\대충 만든 자판.genruntimeconfig.cache
+c:\Users\freed\Desktop\Development\Programmers\Solution\대충 만든 자판\obj\Debug\net10.0\ref\대충 만든 자판.dll
