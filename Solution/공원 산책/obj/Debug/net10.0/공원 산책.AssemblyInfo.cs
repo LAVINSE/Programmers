@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("공원 산책")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+788543fef97b6d3d8bbfe7984d7acb95653845ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05d0deb74d3efdfd2d9f0659e870dba5f775c955")]
 [assembly: System.Reflection.AssemblyProductAttribute("공원 산책")]
 [assembly: System.Reflection.AssemblyTitleAttribute("공원 산책")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
