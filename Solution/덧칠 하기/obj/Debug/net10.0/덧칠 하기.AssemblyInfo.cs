@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("덧칠 하기")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05d0deb74d3efdfd2d9f0659e870dba5f775c955")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+143ce33ebbeaddeb469182cde71458614cc8b81d")]
 [assembly: System.Reflection.AssemblyProductAttribute("덧칠 하기")]
 [assembly: System.Reflection.AssemblyTitleAttribute("덧칠 하기")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

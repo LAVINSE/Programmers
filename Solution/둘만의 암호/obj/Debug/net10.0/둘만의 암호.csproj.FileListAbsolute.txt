@@ -1,0 +1,15 @@
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\bin\Debug\net10.0\둘만의 암호.exe
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\bin\Debug\net10.0\둘만의 암호.deps.json
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\bin\Debug\net10.0\둘만의 암호.runtimeconfig.json
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\bin\Debug\net10.0\둘만의 암호.dll
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\bin\Debug\net10.0\둘만의 암호.pdb
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\obj\Debug\net10.0\둘만의 암호.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\obj\Debug\net10.0\둘만의 암호.AssemblyInfoInputs.cache
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\obj\Debug\net10.0\둘만의 암호.AssemblyInfo.cs
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\obj\Debug\net10.0\둘만의 암호.csproj.CoreCompileInputs.cache
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\obj\Debug\net10.0\둘만의 암호.sourcelink.json
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\obj\Debug\net10.0\둘만의 암호.dll
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\obj\Debug\net10.0\refint\둘만의 암호.dll
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\obj\Debug\net10.0\둘만의 암호.pdb
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\obj\Debug\net10.0\둘만의 암호.genruntimeconfig.cache
+c:\Users\freed\Desktop\Development\Programmers\Solution\둘만의 암호\obj\Debug\net10.0\ref\둘만의 암호.dll

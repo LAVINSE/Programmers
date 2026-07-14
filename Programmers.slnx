@@ -11,6 +11,7 @@
     <Project Path="Solution/택배 상자 꺼내기/택배 상자 꺼내기.csproj" />
     <Project Path="Solution/공원 산책/공원 산책.csproj" />
     <Project Path="Solution/유연근무제/유연근무제.csproj" />
+    <Project Path="Solution/둘만의 암호/둘만의 암호.csproj" />
     <Project Path="Solution/바탕화면 정리/바탕화면 정리.csproj" />
     <Project Path="Solution/대충 만든 자판/대충 만든 자판.csproj" />
   </Folder>
