@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\카드 뭉치\\카드 뭉치.csproj": {}
+    "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\카드 뭉치\\카드 뭉치.csproj": {}
   },
   "projects": {
-    "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\카드 뭉치\\카드 뭉치.csproj": {
+    "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\카드 뭉치\\카드 뭉치.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\카드 뭉치\\카드 뭉치.csproj",
+        "projectUniqueName": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\카드 뭉치\\카드 뭉치.csproj",
         "projectName": "카드 뭉치",
-        "projectPath": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\카드 뭉치\\카드 뭉치.csproj",
+        "projectPath": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\카드 뭉치\\카드 뭉치.csproj",
         "packagesPath": "C:\\Users\\freed\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\카드 뭉치\\obj\\",
+        "outputPath": "C:\\Users\\freed\\Desktop\\Development\\Programmers\\Solution\\카드 뭉치\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\freed\\AppData\\Roaming\\NuGet\\NuGet.Config"

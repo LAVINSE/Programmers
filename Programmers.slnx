@@ -9,6 +9,7 @@
     <Project Path="Solution/중요한 단어를 스포 방지/중요한 단어를 스포 방지.csproj" />
     <Project Path="Solution/카드 뭉치/카드 뭉치.csproj" />
     <Project Path="Solution/택배 상자 꺼내기/택배 상자 꺼내기.csproj" />
+    <Project Path="Solution/개인정보 수집 유효기간/개인정보 수집 유효기간.csproj" />
     <Project Path="Solution/공원 산책/공원 산책.csproj" />
     <Project Path="Solution/유연근무제/유연근무제.csproj" />
     <Project Path="Solution/둘만의 암호/둘만의 암호.csproj" />

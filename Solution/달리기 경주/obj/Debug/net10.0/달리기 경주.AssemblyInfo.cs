@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("달리기 경주")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+143ce33ebbeaddeb469182cde71458614cc8b81d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1577ea8bdc9c164f6bc75982ca03c21b16c59725")]
 [assembly: System.Reflection.AssemblyProductAttribute("달리기 경주")]
 [assembly: System.Reflection.AssemblyTitleAttribute("달리기 경주")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
